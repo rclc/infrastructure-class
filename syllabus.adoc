@@ -6,7 +6,7 @@ University of St. Thomas +
 St. Paul, MN 55105
 
 [.text-center]
-*SYLLABUS Spring 2018 SEIS 665* +
+*SYLLABUS Fall 2018 SEIS 665* +
 Version 2018.01.31
 
 {blank}

@@ -7,7 +7,7 @@ St. Paul, MN 55105
 
 [.text-center]
 *SYLLABUS Spring 2018 SEIS 665* +
-Version 2017.12.18
+Version 2018.01.31
 
 {blank}
 *[.underline]#Course Title#* +

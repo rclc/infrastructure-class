@@ -14,7 +14,7 @@ Version 2017.12.18
 DevOps & Cloud Infrastructure
 
 *[.underline]#Meeting Time Place#* +
-Mondays, 5:45 - 9:00 PM, OSS 326
+To-Do
 
 *[.underline]#Credit Value#* +
 3 semester credits
@@ -23,20 +23,19 @@ Mondays, 5:45 - 9:00 PM, OSS 326
 SEIS 610
 
 *[.underline]#Instructor#* +
-Jason Baker
+Ron C. Chiang
 
 *[.underline]#E-Mail Address#* +
-bake2352@stthomas.edu
+cchiang@stthomas.edu
 
 *[.underline]#Phone Number#* +
-612-695-7775 (cell)
+651-962-5554
 
 *[.underline]#Office Address#* +
-By Appointment
+OSS 311
 
 *[.underline]#Office Hours#* +
-Before class or by appointment +
-(Remote conferencing via Google Hangouts/ Skype encouraged)
+Check the sign next to my office door
 
 {blank}
 *[.underline]#Course Description#* +
@@ -55,11 +54,11 @@ AWS, and Docker.
 *[.underline]#Course Objectives#*
 
 *   Understand how IT organizations are deploying modern infrastructure and how
-to build infrastructure as code.
+to build infrastructure as code. (IDEA - Q1 &Q3)
 *   Understand how to architect cloud-scale distributed systems and the key design
-patterns used to enhance scalability and reliability within these systems.
+patterns used to enhance scalability and reliability within these systems. (IDEA - Q1 &Q3)
 *   Develop specific skills related to DevOps practices including source control
-  management, package management, and configuration management.
+  management, package management, and configuration management. (IDEA - Q4)
 
 {blank}
 *[.underline]#Required Texts#* +
@@ -159,14 +158,13 @@ system administration skills.
   ** Four or more absences will result in a grade reduction.
 * Homework assignments (35%)
   ** 10 graded assignments.
-  ** Assignments due by beginning of Monday class period.
+  ** Assignments due by beginning of a class period.
   ** No credit for late submissions.
   ** Extra credit points may be given for helping others troubleshoot technical issues through Slack.
 * Exams (55%)
-  * Practical exams based on weekly assignments.
-  * Midterm Challenge (25%)
-  * Final Challenge (30%)
-* Historical grade distribution: A=~40%, B=~37%, C=~20%, F=3%.
+  ** Practical exams based on weekly assignments.
+  ** Midterm Challenge (25%)
+  ** Final Challenge (30%)
 * Factors that may severely impact your grade:
   ** Significant disregard for assignments.
   ** Multiple class absences.
@@ -183,30 +181,30 @@ without the written permission of the instructor. (See Class Session Recording
 *[.underline]#Schedule#* +
 
 
-[cols="10,10,40,40",options="header"]
+[cols="10,40,40",options="header"]
 |=========================================================
-|Week | Date | Topic | Assignment Due
+|Week | Topic | Assignment Due
 
-|1 | 1/29 | Course Introduction +
+|1 | Course Introduction +
 Source control +
 Git |
 
 
-|2 | 2/5 | Linux fundamentals +
+|2 | Linux fundamentals +
 Shell scripting
  |
 Assignment 1 +
 Read _Git Hands On Guide_ +
 Read _Linux Hands On Guide_
 
-|3 | 2/12 | Infrastructure fundamentals +
+|3 | Infrastructure fundamentals +
 Virtualization +
 Distributed infrastructure design and operations +
  |
 Assignment 2 +
 Read _Infrastructure as Code_ Chapters 1 & 2 +
 
-|4 | 2/19 | Cloud computing +
+|4 | Cloud computing +
 AWS +
 IAM, EC2, S3 |
 Assignment 3 +
@@ -214,7 +212,7 @@ Read _Overview of Amazon Web Services_ (White paper April 2017) +
 * Optional * +
 Read AWS Certified Solutions Architect Official Study Guide Chapters 1, 2, 3 & 6
 
-|5 | 2/26 | Cloud computing +
+|5 | Cloud computing +
 AWS +
 VPC, RDS, ELB |
 Assignment 4 +
@@ -222,7 +220,7 @@ Read _Architecting for the Cloud: AWS Best Practices_ (White paper February 2016
 * Optional * +
 Read AWS Certified Solutions Architect Official Study Guide Chapters 4, 5, & 7
 
-|6 | 3/5 | Cloud computing +
+|6 | Cloud computing +
 AWS +
 Autoscaling, Cloud Watch, Route53, +
 SQS, SNS, SES |
@@ -232,46 +230,46 @@ Read _Infrastructure as Code_ Chapters 3 & 4 +
 Read AWS Certified Solutions Architect Official Study Guide Chapters 8, 9, & 10
 
 
-|7 | 3/12 | Midterm Challenge|
+|7 | Midterm Challenge|
 
 
-|8 | 3/19 | DevOps +
+|8 | DevOps +
 Continuous integration & delivery +
  |
 Assignment 6 +
 Read _Infrastructure as Code_ Chapters 10 & 11
 
 
-|9 | 4/9 | Infrastructure as code +
+|9 | Infrastructure as code +
 CloudFormation +
  |
 Assignment 7 +
 Read _Infrastructure as Code_ Chapters 5 & 6
 
-|10 | 4/16 | Configuration Management +
+|10 | Configuration Management +
  |
 Assignment 8 +
 Read _Infrastructure as Code_ Chapters 7 & 8
 
-|11 | 4/23 | CI/CD Pipelines +
+|11 | CI/CD Pipelines +
 Jenkins +
  |
 Assignment 9 +
 Read _Infrastructure as Code_ Chapters 12 & 13
 
-|12 | 4/30 | Containers +
+|12 | Containers +
 Docker |
 Assignment 10 +
 Read _Infrastructure as Code_ Chapters 9 & 14
 
-|13 | 5/7 | Service Discovery +
+|13 | Service Discovery +
 Container Orchestration +
  |
 Assignment 11 +
 Read _Infrastructure as Code_ Chapter 15 +
 
 
-|14 | 5/14 | Final Challenge |
+|14 | Final Challenge |
 
 
 |=========================================================

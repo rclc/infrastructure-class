@@ -22,11 +22,6 @@ Git commands are executed by typing `git` followed by a function
 and a series of attributes. Many of the `git` command functions only work properly if
 the git command is executed in a file directory containing a Git repository.
 
-.Example:
-----
-$ git status
-----
-
 === Getting help
 Typing in the `git` command with no arguments provides you with a
 helpful summary of available command options. You can also type
@@ -74,7 +69,10 @@ staging area is: `git add -A`
 === Viewing state of files in current working directory
 The files in the current working directory could be in the
 repository, in the staging area, or neither (untracked). Display
-the state of the files by typing: `git status`
+the state of the files by typing:
+----
+$ git status
+----
 
   * Files in the staging area are queued up for committing to the repository.
 

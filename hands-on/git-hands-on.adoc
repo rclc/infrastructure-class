@@ -6,7 +6,8 @@ image:../images/git-hands-on/git-hands-on-logo.png["200","200",float="right"]
 
 == Git Hands-on Guide
 Jason Baker <bake2352@stthomas.edu>
-1.1, 8/26/2016
+Ron C. Chiang <cchiang@stthomas.edu>
+1.2, 7/30/2018
 
 === Overview
 The purpose of this guide is to provide a basic overview of the Git version

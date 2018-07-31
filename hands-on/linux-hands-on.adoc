@@ -5,8 +5,8 @@ image:../images/linux-hands-on/linux-hands-on-tux.png[float="right"]
 :sectnums!:
 
 == Linux Hands-on Guide
-Jason Baker <bake2352@stthomas.edu>
-1.0, 3/18/2016
+Jason Baker <bake2352@stthomas.edu> & Ron C. Chiang <cchiang@stthomas.edu>
+1.2, 07/30/2018
 
 === Overview
 The purpose of this guide is to provide a basic overview of the Linux operating

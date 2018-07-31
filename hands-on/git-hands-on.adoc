@@ -77,12 +77,20 @@ $ git status
   * Files in the staging area are queued up for committing to the repository.
 
 === Removing staged files
-If you accidentally added a file to the staging area, you can remove the file using the `git reset HEAD <filename>` command. This command seems a little strange, but it works!
+If you accidentally added a file to the staging area, you can remove the file using the `git rm --cached <filename>` command. 
+
+.Example:
+----
+$ git rm --cached index.html
+----
+
+Or, using the `git reset HEAD <filename>` command.
 
 .Example:
 ----
 $ git reset HEAD index.html
 ----
+
 
 === Adding files (committing) to the repository
 Committing files to the repository creates a _snapshot_ of all the tracked
@@ -318,7 +326,7 @@ host (git server) to your local computer. Clone a repository by typing: `git clo
 
 .Example:
 ----
-$ git clone https://github.com/jasondbaker/infrastructure-class.git
+$ git clone https://github.com/rclc/infrastructure-class.git
 ----
 
 This example will download a repository from GitHub and store it in
@@ -351,7 +359,7 @@ Over time the repository on the central server will get out of sync with
 your local clone of the repository as other developers push their code updates.
 Sync your current branch with the central server by typing: `git pull <repository name>`
 
-$ git pull https://github.com/jasondbaker/infrastructure-class.git
+$ git pull https://github.com/rclc/infrastructure-class.git
 
   * When working with a team using a remote server, you establish a routine of
   pushing and pulling updates periodically from the remote server -- possibly
